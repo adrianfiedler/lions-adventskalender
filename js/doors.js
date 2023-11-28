@@ -7,55 +7,35 @@
 */
 
 const doors = [
-  {
+   {
     row: 0,
     col: 0,
     number: "15",
     prices: [
       {
-        sponsor: "BOPPEL MEDICAL ENGINEERING Weil der Stadt NEU",
-        text: "1 Gutschein für eine Schlafuntersuchung Standard im Wert von 59,- €",
+        sponsor: "Design Optik Jacqueline Holfeld, Weil der Stadt",
+       text: "1 Einkaufsgutschein im Wert von 50,- €",
         winner: "K0110",
       },
       {
-        sponsor: "Julianes natürlich schöne mode, Weil der Stadt",
-        text: "1 Einkaufsgutschein im Wert von 25,- €",
+        sponsor: "Ernst Heller e.K. Gebäudeenergieberater, Weil der Stadt-Merklingen",
+        text: "1 Gutschein für eine Bauthermografie im Wert von 125,- €",
         winner: "K0410",
       },
       {
-        sponsor: "Julianes natürlich schöne mode, Weil der Stadt",
-        text: "1 Einkaufsgutschein im Wert von 25,- €",
-        winner: "K0307",
+        sponsor: "Design Optik Jacqueline Holfeld, Weil der Stadt",
+       text: "1 Einkaufsgutschein im Wert von 50,- €",
+        winner: "K0110",
+      },
+            {
+        sponsor: "Ernst Heller e.K. Gebäudeenergieberater, Weil der Stadt-Merklingen",
+        text: "1 Gutschein für eine Bauthermografie im Wert von 125,- €",
+        winner: "K0410",
       },
       {
-        sponsor: "Apero Event- und Weinkeller, Weil der Stadt",
-        text: "1 Genussgutschein im Wert von 30,- €",
-        winner: "K0071",
-      },
-      {
-        sponsor: "Apero Event- und Weinkeller, Weil der Stadt",
-        text: "1 Genussgutschein im Wert von 30,- €",
-        winner: "K0887",
-      },
-      {
-        sponsor: "Mitglieder des Lions Club Johannes Kepler",
-        text: "1 x Weiler Taler im Wert von 20,- €",
-        winner: "K1630",
-      },
-      {
-        sponsor: "Mitglieder des Lions Club Johannes Kepler",
-        text: "1 x Weiler Taler im Wert von 20,- €",
-        winner: "K1574",
-      },
-      {
-        sponsor: "Mitglieder des Lions Club Johannes Kepler",
-        text: "1 x Weiler Taler im Wert von 20,- €",
-        winner: "K0830",
-      },
-      {
-        sponsor: "Sanitätshaus Fünfer, Weil der Stadt",
-        text: "1 Einkaufsgutschein im Wert von 25,- €",
-        winner: "K2306",
+        sponsor: "Ernst Heller e.K. Gebäudeenergieberater, Weil der Stadt-Merklingen",
+        text: "1 Gutschein für eine Bauthermografie im Wert von 125,- €",
+        winner: "K0410",
       }
     ],
   },
