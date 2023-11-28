@@ -47,7 +47,7 @@ const doors = [
       {
         sponsor: "SZ/BZ - Sindelfinger Zeitung/Böblinger Zeitung",
         text: "1 Gutschein für ein SZ/BZ-Digital-Abo für 6 Monate",
-        winner: "K0340",
+        winner: "K034",
       },
       {
         sponsor: "SZ/BZ - Sindelfinger Zeitung/Böblinger Zeitung",
